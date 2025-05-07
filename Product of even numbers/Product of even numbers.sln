@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product of even numbers", "Product of even numbers\Product of even numbers.csproj", "{7601FE68-0DBD-496B-B884-AB5025A6200E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7601FE68-0DBD-496B-B884-AB5025A6200E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7601FE68-0DBD-496B-B884-AB5025A6200E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7601FE68-0DBD-496B-B884-AB5025A6200E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7601FE68-0DBD-496B-B884-AB5025A6200E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDCB7DBC-3AA0-41CE-81C3-DF2022591BF9}
+	EndGlobalSection
+EndGlobal
